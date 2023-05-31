@@ -7,20 +7,20 @@ Este projeto está usando [Typescript](https://reactnative.dev/docs/typescript) 
 Rodando o App
 ---------------
 1. Tenha certeza de ter o ambiente [configurado](https://reactnative.dev/docs/environment-setup) corretamente para rodar a aplicação.
-2. Clone o repositório e rode no terminal: ```npm install``` or ```yarn```
+2. Clone o repositório e rode no terminal: ```npm install``` ou ```yarn```
 3. Abra a pasta de iOS e rode no terminal: ```pod install``` (iOS only)
 4. Para rodar o app no terminal:
 ### Android (Emulador ou Device)
-```npm run android``` or ```yarn android```
+```npm run android``` ou ```yarn android```
 
 ### iOS (Emulador)
-```npm run ios``` or ```yarn ios```
+```npm run ios``` ou ```yarn ios```
 ### iOS (Device)
-```npm run ios --device``` or ```yarn ios --device```
+```npm run ios --device``` ou ```yarn ios --device```
 
 Para rodar o app em um iPhone pode ser necessário uma [configuração](https://reactnative.dev/docs/running-on-device) adicional.
 
-5. Para rodar os testes unitários execute no terminal: ```npm test``` or ```yarn test```
+5. Para rodar os testes unitários execute no terminal: ```npm test``` ou ```yarn test```
 
 TODO (itens de melhoria para atingir 100% do teste proposto no Figma)
 ---------------
